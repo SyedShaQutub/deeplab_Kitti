@@ -1,0 +1,6 @@
+# ignore the following  files #
+*.pyc
+*.out
+*.ipynb*
+/deeplab/datasets/kitti_seg
+

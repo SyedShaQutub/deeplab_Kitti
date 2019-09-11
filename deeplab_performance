@@ -1,0 +1,14 @@
+Performance Record
+
+1. Model = deeplab, batch size = 4, CPU = Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+ 	
+	a. TF with GPU
+		training time = 0.633 sec/step avg
+	
+	b. TF without GPU
+		training time = 19.417 sec/step avg
+
+2. Model = deeplab, batch size = 2, CPU = Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz
+
+	a. TF with GPU
+		training time = 0.248 sec/step avg
