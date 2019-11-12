@@ -58,5 +58,4 @@ Configure the file local_test.sh file depending on the required parameters.
 
 
 
-
-[SemanticSeg_Report.docx](uploads/3649e108f74bbfebf569fe46fa5c4387/SemanticSeg_Report.docx)
+Refer Wiki for project report
